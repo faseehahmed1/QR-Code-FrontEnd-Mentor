@@ -36,7 +36,7 @@ main {
     padding-bottom: 28px;
 }
 
-.image > img{
+.image{
     border-radius: 10px;
 }
 
@@ -47,7 +47,7 @@ main {
 }
 
 .title {
-    font-size: 10px;
+    font-size: 20px;
     color: var(--dark-blue);
     margin-top: 15px;
 }
